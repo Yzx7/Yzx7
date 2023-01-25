@@ -5,8 +5,6 @@ MERN and Python developer
 -------------------------
 
 * 🌍  I'm based in Lima
-* ✉️  You can contact me at [gyrp.yz7@gmail.com](mailto:gyrp.yz7@gmail.com)
-* 🚀  I'm currently working on [Lered](http://lered.vercel.app)
 * 🧠  I'm learning data analysis with python
 * 🤝  I'm open to collaborating on educational projects
 

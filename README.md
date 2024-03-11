@@ -1,4 +1,4 @@
-Hi 👋 My name is Gerson
+Hi 👋 My name is YuriR
 =======================
 
 MERN and Python developer

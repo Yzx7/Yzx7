@@ -1,4 +1,4 @@
-Hi 👋 My name is YuriR
+Hi 👋 I'm Yuri.Rodrix
 =======================
 
 MERN and Python developer
